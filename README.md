@@ -31,10 +31,35 @@ The Header changes when user logs in and logs out.
 The Home Page Slider Contains
   
   ***A slider made with npm package called React-Slick.***
+  ***Below the slider there is a section that contains the brands in Disney+. If the user hovers over them a background video will be played.***
   
  <div align="center"><a name="menu"></a>
 
 <img src="./public/images/homepage-top.PNG">
+   
+</div>
+
+# Home Page Movies
+The Home Page Movies Contains
+  
+  ***The movies that fetched from firestore display with grid system ***
+  ***When the user clicks on a movie it redirects you to Detail Page***
+  
+ <div align="center"><a name="menu"></a>
+
+<img src="./public/images/homepage-movies.PNG">
+   
+</div>
+
+# Detail Page
+The Detail Page Contains
+  
+  ***Details about the movie that user clicked in Home Page. ***
+  ***It contains a background image of clicked movie in Home Page.***
+  
+ <div align="center"><a name="menu"></a>
+
+<img src="./public/images/detail-page.PNG">
    
 </div>
 
