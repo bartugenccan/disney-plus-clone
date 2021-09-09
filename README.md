@@ -7,7 +7,7 @@
 <p><font size="3">
   This is a Disney+ clone website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of Disney+ website. It's a similar version of Disney with some of the features.This project is showing my abilities in React.JS to build something advanced like Disney+. It contains the home page, login page, movie detail page.
   <br><br> 
-  <strong><em>Here is the live version:</em></strong>
+  <strong><em>Here is the live version:</em></strong> https://disney-clone-bf3bc.web.app/
 </p>
   
   # Login Page
