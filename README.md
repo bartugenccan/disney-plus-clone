@@ -20,4 +20,25 @@
  <div align="center"><a name="menu"></a>
 
 <img src="./public/images/login-page.PNG">
+   
+</div>
+
+# Header
+
+The Header changes when user logs in and logs out.
+
+# Home Page Slider
+The Home Page Slider Contains
+  
+  ***A slider made with npm package called React-Slick.***
+  
+ <div align="center"><a name="menu"></a>
+
+<img src="./public/images/homepage-top.PNG">
+   
+</div>
+
+
+
+
 
