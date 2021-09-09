@@ -19,5 +19,5 @@
   
  <div align="center"><a name="menu"></a>
 
-<img src="./public/images/login-page.png">
+<img src="./public/images/login-page">
 
